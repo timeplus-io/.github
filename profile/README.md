@@ -1,1 +1,1 @@
-TODO
+Timeplus is a streaming-first data analytics platform. It provides powerful end-to-end capabilities to help teams process streaming and historical data quickly and intuitively, accessible for organizations of all sizes and industries. It enables data engineers and platform engineers to unlock streaming data value using SQL. Learn more at [timeplus.com](https://timeplus.com) and [docs.timeplus.com](https://docs.timeplus.com).
